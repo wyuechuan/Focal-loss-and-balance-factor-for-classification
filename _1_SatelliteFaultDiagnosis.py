@@ -327,8 +327,8 @@ def gridIteration():
             print("accBest={}".format(accBest))
 
 
-
-gridIteration()
+if __name__ == '__main__':
+    gridIteration()
 
 
 time_elapsed = time.time() - since
