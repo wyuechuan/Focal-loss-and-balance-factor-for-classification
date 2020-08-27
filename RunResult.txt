@@ -1,0 +1,36 @@
+运行的输出结果如下所示：
+/*******************************/
+gamma = 4.500000
+alpha = 0.050000
+开始训练......
+epoch:    0 | loss: 0.00258814 | loss_veri: 0.00621901 | Train accuracy: 0.2162% | Veri accuracy: 0.2154%
+epoch:  100 | loss: 0.00017447 | loss_veri: 0.00251406 | Train accuracy: 99.9140% | Veri accuracy: 99.9114%
+epoch:  200 | loss: 0.00008479 | loss_veri: 0.00215873 | Train accuracy: 99.9031% | Veri accuracy: 99.9282%
+epoch:  300 | loss: 0.00003982 | loss_veri: 0.00190572 | Train accuracy: 99.9233% | Veri accuracy: 99.9102%
+epoch:  400 | loss: 0.00002317 | loss_veri: 0.00180689 | Train accuracy: 99.9387% | Veri accuracy: 99.9282%
+epoch:  500 | loss: 0.00001847 | loss_veri: 0.00177402 | Train accuracy: 99.9555% | Veri accuracy: 99.9473%
+epoch:  600 | loss: 0.00001490 | loss_veri: 0.00174974 | Train accuracy: 99.9630% | Veri accuracy: 99.9506%
+epoch:  700 | loss: 0.00001345 | loss_veri: 0.00173803 | Train accuracy: 99.9675% | Veri accuracy: 99.9529%
+epoch:  800 | loss: 0.00001214 | loss_veri: 0.00172684 | Train accuracy: 99.9723% | Veri accuracy: 99.9630%
+epoch:  900 | loss: 0.00001151 | loss_veri: 0.00172158 | Train accuracy: 99.9738% | Veri accuracy: 99.9675%
+epoch: 1000 | loss: 0.00001090 | loss_veri: 0.00171622 | Train accuracy: 99.9761% | Veri accuracy: 99.9686%
+Training complete in 0m 38s
+train acc: 100.0%, test acc: 100.0, ver acc: 100.0%
+The Confusion Matrix is
+[[266728     57]
+ [    14    564]]
+The  accuracy is: [0.9997]
+The precision is: [0.9999 0.9082]
+The   recall  is: [0.9998 0.9758]
+The  f1 score is: [0.9999 0.9408]
+The Confusion Matrix is
+[[88914    15]
+ [   13   179]]
+The  accuracy is: [0.9997]
+The precision is: [0.9999 0.9227]
+The   recall  is: [0.9998 0.9323]
+The  f1 score is: [0.9998 0.9275]
+gammaBest=4.5
+alphaBest=0.05
+accBest=0.927461139896373
+Training complete in 0m 50s
